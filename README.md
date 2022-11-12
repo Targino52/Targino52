@@ -9,20 +9,33 @@
 
 Moro em Fortaleza e sou apaixonado por programação e tecnologia! Sou iniciante no universo da programação, caçador de bugs, e quanto mais eu aprendo mais estresse encontro caminho e novos desafios e fases são passadas, lv no RPG da programção 40/100, mais eu amo tudo isso! 
 
-https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559
-<div class="tenor-gif-embed" data-postid="16596559" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 ## Conhecimentos
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+### 🖥️ Tecnologias e Ferramentas: 
+<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
+<code><img width="4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM9" title = "HTML5"/></code>
+<code><img width="4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM9title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM9 = "GITHUB"/></code>
+<code><img width="4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM9JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code> imh width="40px" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> title ="JAVA" </code>
+<code> imh width="40px" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> title ="C#" </code>
+<code> imh width="40px" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> title ="REACT" </code>
 
-<div>
+
+
+<p align="center">
 <a href="https://github.com/targino52">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <div>
