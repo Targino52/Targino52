@@ -23,7 +23,6 @@ Moro em Fortaleza e sou apaixonado por programação e tecnologia! Sou iniciante
 <code> <img width="40px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title ="JAVA" /></code>
 <code> <img width="40px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  title ="C#" /></code>
 <code> <img width="40px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title ="REACT" /></code>
-<code> <img width="40x" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title ="HTML"/> </code>
 
 
 
